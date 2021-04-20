@@ -4,13 +4,13 @@
 1.将检索到的pdf（路径：mypdf/）转化为txt分别存放
 
 2.数据存放路径：data/1新一代.txt
-               data/2新材料.txt
-               data/3高端.txt
-               data/4节能环保.txt
-               data/5新能源汽车.txt
-               data/6生物.txt
-               data/7新能源.txt
-               data/8数字创意.txt
+                    2新材料.txt
+                    3高端.txt
+                    4节能环保.txt
+                    5新能源汽车.txt
+                    6生物.txt
+                    7新能源.txt
+                    8数字创意.txt
                
 3.使用TextTrank算法提取关键词存放在路径下：data\segword\keywords.txt
 
